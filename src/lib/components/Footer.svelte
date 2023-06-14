@@ -8,9 +8,9 @@
 			<span class="contrast">Open source</span>
 		</p>
 		<div class="shameless-plug">
-			<p class="h4">Studio Freight</p>
+			<p class="h4">VPL Lab</p>
 			<p class="p-s">
-				An independent creative <br /> studio built on principle
+				Independent creative <br /> studio
 			</p>
 		</div>
 		<p class="last-line h1">
@@ -28,7 +28,7 @@
 	</div>
 	<div class="layout-block top hide-on-desktop">
 		<div class="shameless-plug">
-			<p class="h4">Studio Freight</p>
+			<p class="h4">VPL Lab</p>
 			<p class="p-s">
 				An independent creative <br /> studio built on principle
 			</p>
@@ -41,15 +41,11 @@
 	</div>
 	<div class="bottom">
 		<div class="links">
-			<a class="link p-xs" href="https://twitter.com/studiofreight">Twitter</a>
 			<a class="link p-xs" href="https://github.com/sekretservices">GitHub</a>
-			<a class="link p-xs" href="https://awwwards.com/studiofreight">Awwwards</a>
-			<a class="link p-xs" href="https://studiofreight.com">Website</a>
-			<a class="link p-xs" href="https://darkroom.studiofreight.com">Darkroom</a>
 		</div>
 		<p class="p-xs tm">
 			<span>©</span>
-			{new Date().getFullYear()} Studio Freight
+			{new Date().getFullYear()} VPL Lab
 		</p>
 		<!-- <Button
         class={cn(s.cta, 'hide-on-desktop')}
