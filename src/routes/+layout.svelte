@@ -106,7 +106,7 @@
 </script>
 
 <!-- <RealViewport /> -->
-<CustomHead title="Lenis – Get smooth or die trying" />
+<CustomHead title="Die trying" />
 <div class={cn(`theme-${$themeStore}`, 'layout', className)}>
 	<!-- <PageTransition /> -->
 	<Intro />
